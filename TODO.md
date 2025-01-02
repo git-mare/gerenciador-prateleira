@@ -1,7 +1,9 @@
 # Gerenciador de prateleiras
 ## Done
 [X] Adicionar botôes a tela, botões com tamanho fixos independente da resolução e zoom da tela.
+
 [X] Adicionar imagem de fundo a tela, a imagem é forçada a caber inteiramente na tela e possui tamanho fixo independente da resolução da tela.
+
 [X] Corrigido bug que abria páginas enquanto o modo de arrastar botões estava ativo.
 
 
