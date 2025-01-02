@@ -1,7 +1,6 @@
 body {
   margin: 0;
   display: flex;
-  font-size: 1.3vw;
   height: 100vh;
   font-family: Arial, sans-serif;
 }
@@ -12,25 +11,28 @@ a {
   width: 3vw;
   background-color: #2c3e50;
   color: white;
-  padding: 20px;
+  padding: 1vw;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
 }
 
 .sidebar button {
-  width: 90%;
-  margin-bottom: 10px;
-  padding: 10px;
+  width: 3.5vw;
+  margin-bottom: 1vh;
+  padding: 1vw;
   background-color: #3498db;
   border: none;
-  font-size: 1.3vw;
   color: white;
   cursor: pointer;
-  border-radius: 5px;
-  font-size: 16px;
+  border-radius: 0.3vw;
 }
 
 .sidebar button:hover {
   background-color: #2980b9;
+}
+
+.icon-size-bi {
+  width: 1.8vw;
+  height: 1.8vw;
 }
 
 .canvas {
